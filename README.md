@@ -1,4 +1,4 @@
-# Hotel Market Data Scraper – Booking.com (Yogyakarta)
+# 🏨 Hotel Market Data Scraper – Booking.com (Yogyakarta)
 
 ## 📌 Project Description
 
@@ -33,7 +33,7 @@ This project aims to:
 
 ## 🛠️ Dependencies
 
-To run this project, install the following libraries:
+Install the following libraries:
 
 ```bash
 pip install selenium
